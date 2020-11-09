@@ -1,0 +1,33 @@
+.container {
+  max-width: 450px;
+  margin-top: 100px;
+}
+.register {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.registered {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: white;
+  font: bold 52px Helvetica, Arial, Sans-Serif;
+  text-shadow: 1px 1px green, 2px 2px green, 2px 3px #fe4902;
+}
